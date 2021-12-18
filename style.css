@@ -1,0 +1,12 @@
+#hash {
+  color: whitesmoke;
+  text-decoration: none;
+  background-color: black;
+  padding: 50px;
+  transition: all 1s;
+}
+
+#hash:hover {
+  background-color: whitesmoke;
+  color: black;
+}
